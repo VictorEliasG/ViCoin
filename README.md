@@ -1,0 +1,2 @@
+# ViCoin
+CryptoToken ViCoin
